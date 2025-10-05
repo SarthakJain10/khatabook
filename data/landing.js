@@ -47,28 +47,28 @@ export const testimonialsData = [
   {
     name: "Riya Sharma, Delhi",
     role: "Small Business Owner",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    image: "/testimonials/man1.jpeg",
     quote:
       "Helps me budget my salary and avoid end-of-month money stress. I can finally plan ahead and save for bigger goals without worrying about overspending.",
   },
   {
     name: "Amit Patel, Ahmedabad",
     role: "Financial Advisor",
-    image: "https://randomuser.me/api/portraits/men/74.jpg",
+    image: "/testimonials/woman2.jpeg",
     quote:
       "Finally saving from my pocket money! Super easy to track expenses and monitor where every rupee goes, which makes managing finances much simpler.",
   },
   {
     name: "Sneha Nair, Bangalore",
     role: "Freelancer",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    image: "/testimonials/woman1.jpeg",
     quote:
       "No more paper registers — Khatabook handles all my daily accounts. It’s intuitive, fast, and keeps my finances organized even during busy workdays.",
   },
   {
     name: "Rohit Verma, Mumbai",
     role: "Startup Founder",
-    image: "https://randomuser.me/api/portraits/men/76.jpg",
+    image: "/testimonials/man2.jpeg",
     quote:
         "Khatabook has transformed the way I manage my startup’s finances. Tracking expenses, generating reports, and planning budgets has never been easier. Highly recommended!",
     },

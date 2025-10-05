@@ -95,7 +95,7 @@ export default function Home() {
                         alt={testimonial.name}
                         width={40}
                         height={40}
-                        className="rounded-full"
+                        className="w-10 h-10 rounded-full"
                       />
                       <div className="ml-4">
                         <div className="font-semibold">{testimonial.name}</div>
