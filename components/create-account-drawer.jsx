@@ -25,7 +25,7 @@ import {
 } from "@/components/ui/select";
 import { Switch } from "@/components/ui/switch";
 import { accountSchema } from "@/app/lib/schema";
-import createAccount from "@/actions/dashboard";
+import { createAccount } from "@/actions/dashboard";
 import useFetch from "@/hooks/use-fetch";
 
 export function CreateAccountDrawer({ children }) {

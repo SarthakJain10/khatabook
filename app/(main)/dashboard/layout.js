@@ -6,7 +6,8 @@ export default function Layout() {
   return (
     <div className="px-5">
       <div className="flex items-center justify-between mb-5">
-        <h1 className="text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-indigo-500">
+        <h1 className="text-6xl font-bold tracking-tight bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500
+           text-transparent bg-clip-text capitalize">
           Dashboard
         </h1>
       </div>
